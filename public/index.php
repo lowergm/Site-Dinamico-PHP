@@ -48,7 +48,7 @@ $paginas["sobre"] = "<p>Sobre mim</p>";
           margin: 0 10px;
           color: white;
           text-decoration: none;
-          transition: 0.2s;
+          transition: 0.5s;
       }
       
       a:hover {
